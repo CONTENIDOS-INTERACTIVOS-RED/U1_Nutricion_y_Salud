@@ -22,11 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
-
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
+              p.descripcion.mb-4 Desde el inicio de la humanidad, la alimentación ha sido un pilar esencial para la supervivencia y el desarrollo de los seres vivos. En los humanos, este proceso se basa en la obtención y aprovechamiento de nutrientes a través de los alimentos consumidos, siendo fundamental para garantizar un desarrollo integral saludable. Cuando la alimentación es inadecuada o insuficiente, pueden surgir enfermedades asociadas, afectando gravemente la salud, especialmente en los más vulnerables: los niños. En esta primera unidad, se explorará el marco legal y conceptual relacionado con la nutrición infantil, abordando temas como la normatividad nacional e internacional que protege el derecho a una alimentación adecuada, los conceptos de salud, prevención y promoción, y las características de un entorno saludable. Además, se analizarán los desafíos relacionados con la triple carga de la malnutrición, desde la desnutrición hasta el sobrepeso y la obesidad, identificando factores determinantes y posibles soluciones. 
               
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p #[b ¡Prepárese para profundizar en los fundamentos de la nutrición infantil y su relación con un desarrollo integral saludable!]
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
@@ -108,7 +106,7 @@ export default {
         background-color: $color-acento-botones
         padding: 12px 42px 12px 32px
         width: 100%
-        color: #fff !important
+        color: #12263F !important
     .icon
       background-color: $color-sistema-e
       padding: 0px 20px
