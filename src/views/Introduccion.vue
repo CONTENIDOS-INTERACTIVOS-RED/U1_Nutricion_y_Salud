@@ -70,7 +70,7 @@
                 h5.mb-2 Tercer criterio
                 p.mb-0 Favorece el crecimiento y desarrollo de los niños, basado en la nutrición adecuada para la edad y las condiciones de salud.
 
-    .bg-full-width.bg-color-2.mb-5
+    .bg-full-width.bg-color-2
       .p-5
         .row.align-items-center
           .col-lg-6.order-2
