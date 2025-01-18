@@ -216,7 +216,7 @@
                   h5.mb-1 Lactancia Materna Extracción Leche Embera Dobida 
                   p.mb-0 Antes de abordar Lactancia Materna Extracción Leche Embera Dobida, lo invitamos a ver el siguiente video. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/SIh8qDT62D8?si=omnYGv6pIAtygS3H" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=CKQuU1elvCk" target="_blank")
                     span Ver video
                     i.fas.fa-arrow-right
       .col-lg-4.d-none.d-sm-block
