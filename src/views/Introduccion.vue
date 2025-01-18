@@ -48,7 +48,7 @@
                   img(src="@/assets/curso/intro/9.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   p.mb-0 Durante la presente Unidad 1, <b>Marco legal y conceptualización</b>, se abordarán los temas de marco legal de la nutrición, los conceptos de enfermedad, promoción, prevención, salud individual, salud colectiva y ambientes saludables; así como la prevención en situaciones de riesgo para la salud infantil. 
-            p(data-aos="fade-left") Como resultado de aprendizaje, se espera reconocer con claridad, los estilos de vida saludable para la población infantil, a partir de los siguientes criterios de evaluación: 
+            p(data-aos="fade-left").text-bold Como resultado de aprendizaje, se espera reconocer con claridad, los estilos de vida saludable para la población infantil, a partir de los siguientes criterios de evaluación: 
     
         .row.justify-content-center.align-items-stretch.mb-5
           .col-lg-4.mb-4(data-aos="zoom-in-up")
@@ -75,7 +75,7 @@
         .row.align-items-center
           .col-lg-6.order-2
             p(data-aos="fade-left") En esta primera unidad, se espera que el estudiante pueda revisar y conocer las políticas y acuerdos vigentes sobre nutrición infantil y construir un marco legal de referencia para su discurso en debates y conversatorios. Como producto del aprendizaje, deberán participar en un foro individual sobre los acuerdos y políticas locales (definición de un contexto) sobre la nutrición infantil. La segunda actividad, corresponde a la construcción de un video colaborativo (grupal) y de divulgación que promueva el conocimiento sobre la prevención en situaciones de riesgo para la salud infantil.
-            .bg-color-4.px-4.py-5(data-aos="fade-left").text-white
+            .bg-color-4.p-4(data-aos="fade-left").text-white
               p.mb-0(data-aos="fade-left") Así que la invitación es a participar de manera activa con las lecturas, los procesos de indagación, consulta y el trabajo colaborativo, de tal manera que puedan cumplirse con los aprendizajes planteados. 
           .col-lg-6.d-none.d-sm-block.order-1
             figure
