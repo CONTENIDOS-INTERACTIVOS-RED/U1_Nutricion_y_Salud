@@ -40,7 +40,7 @@
         .row.justify-content-center.align-items-center.p-4
           .col-lg-11
             figure
-              img(src="@/assets/curso/tema3/4.svg", data-aos="zoom-in")
+              img(src="@/assets/curso/tema3/4.png", data-aos="zoom-in")
     
     .bg-full-width.bg-color-6.mb-5
       .px-4.px-md-5.py-4
