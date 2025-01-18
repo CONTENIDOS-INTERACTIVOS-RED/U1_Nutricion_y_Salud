@@ -174,7 +174,7 @@ export default {
   data() {
     return {
       cuestionario: {
-        tema: 'Herramientas colaborativas para la construcción de paz',
+        tema: 'NUTRICION Y SALUD INFANTIL',
         titulo: 'Ponte a prueba',
         introduccion:
           'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
@@ -183,28 +183,29 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Cuál es la finalidad de la Política Nacional de Infancia y Adolescencia? (CON)',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto:
+                  'Contribuir al desarrollo integral de las niñas, niños y adolescentes.',
                 esCorrecta: true,
               },
               {
+                id: 'b',
+                texto: 'Aumentar la población infantil.',
+                esCorrecta: false,
+              },
+              {
                 id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto: 'Reducir la pobreza en el país.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto: 'Fomentar la educación superior.',
                 esCorrecta: false,
               },
             ],
@@ -214,28 +215,28 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              '¿Qué documento internacional establece los derechos de los niños? (CON)',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
+                texto: 'Declaración Universal de los Derechos Humanos.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
+                texto: 'Convención sobre los Derechos del Niño.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto: 'Código de la Infancia y la Adolescencia.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto: 'Pacto Internacional de Derechos Civiles.',
                 esCorrecta: false,
               },
             ],
@@ -245,28 +246,28 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              '¿Qué enfoque se utiliza para garantizar la equidad en la atención a la infancia y adolescencia? (CON)',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto: 'Enfoque de desarrollo humano.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
-                esCorrecta: true,
+                texto: 'Enfoque de derechos humanos.',
+                esCorrecta: false,
               },
               {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto: 'Enfoque de género.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto: 'Enfoque diferencial.',
                 esCorrecta: false,
               },
             ],
@@ -275,28 +276,29 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              '¿Qué porcentaje de la población colombiana entre 6 y 17 años corresponde a niñas, niños y adolescentes según el DANE en 2017? (CON)',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
+                texto: '22 %.',
                 esCorrecta: true,
               },
               {
+                id: 'b',
+                texto: '20 %.',
+                esCorrecta: false,
+              },
+              {
                 id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: '15 %.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto: '30 %.',
                 esCorrecta: false,
               },
             ],
@@ -306,28 +308,28 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Cuál es uno de los objetivos específicos de la Política Nacional de Infancia y Adolescencia? (CON)',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto: 'Fomentar la migración juvenil.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
+                texto: 'Potenciar la capacidad de agencia y protagonismo.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'Aumentar la matrícula escolar.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto: 'Reducir la violencia intrafamiliar.',
                 esCorrecta: false,
               },
             ],
