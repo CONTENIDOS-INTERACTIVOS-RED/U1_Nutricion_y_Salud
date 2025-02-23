@@ -78,8 +78,6 @@
             p Según cifras de la Organización Mundial de la Salud (2024), en el año 2022, 37 millones de niños menores de 5 años, tenían sobrepeso, y más de 390 millones de niños y adolescentes de 5 a 19 años, tenían sobrepeso. 
 
 
-          .div(titulo="Protocolos de higiene")
-            p Estrategias de limpieza y mantenimiento para mantener condiciones óptimas en la operación.
     
     .bg-color-8.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center

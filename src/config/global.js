@@ -238,7 +238,7 @@ export default {
     {
       termino: 'Vitaminas',
       significado:
-        'son sustancias orgánicas que el cuerpo necesita para crecer, desarrollarse y funcionar correctamente. Son esenciales para el funcionamiento celular y se obtienen principalmente a través de la alimentación',
+        'son sustancias orgánicas que el cuerpo necesita para crecer, desarrollarse y funcionar correctamente. Son esenciales para el funcionamiento celular y se obtienen principalmente a través de la alimentación.',
     },
   ],
 }

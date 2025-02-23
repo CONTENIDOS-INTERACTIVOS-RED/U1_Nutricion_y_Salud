@@ -268,7 +268,7 @@ export default {
               {
                 id: 'd',
                 texto: 'Enfoque diferencial.',
-                esCorrecta: false,
+                esCorrecta: true,
               },
             ],
             mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
